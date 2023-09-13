@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Aman Dalal 👋👋👋
 
-<!--
-**Sup3rNova001/Sup3rNova001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer with a strong focus on creating interactive and user-friendly web applications. I love turning ideas into code and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+
+🌱 I'm constantly learning and improving my skills to keep up with the ever-evolving web development landscape.
+
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/aman-dalal-979158203/](https://www.linkedin.com/in/aman-dalal-979158203/)
+- Email: [amandalal56386@gmail.com](mailto:amandalal56386@gmail.com)
+
+Feel free to reach out if you'd like to collaborate, discuss web development, or just have a friendly chat. I'm always open to new opportunities and connections!
+
+
+Thanks for visiting my profile! 😊
